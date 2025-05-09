@@ -82,7 +82,7 @@ There are different levels of meat that you can harvest. These will be displayed
 ![Tiers]()
 
 ## Bundles
-When talking to Bonk inside the Hunting Cabin there will be a “Bundle Store” blip that you can access. Within this store, a select variety of meats will be listed that you can sell together for a higher price than you would regularly in the store. These bundles will change regularly, so it’s in your best interest to explore different hunting grounds, and to do so throughout the day and night as this changes the animals you can hunt! 
+When talking to Bonk inside the Hunting Cabin there will be a “Bundle Store” option that you can access. Within this store, a select variety of meats will be listed that you can sell together for a higher price than you would regularly in the store. These bundles will change regularly, so it’s in your best interest to explore different hunting grounds, and to do so throughout the day and night as this changes the animals you can hunt! 
 
 ## Tips & Tricks
 
